@@ -13,3 +13,7 @@
 - 기획
 - 데이터 수집
 - 시각화 툴 선정
+
+## Result
+
+![](./screenshot/result.gif)
